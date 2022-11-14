@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DjTuner13
-- 👀 I’m interested in ... Python
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in ... Python && C++ && Powershell
+- 🌱 I’m currently learning ... C++
 - 💞️ I’m looking to collaborate on ... Open Source
-- 📫 How to reach me ...
+- 📫 How to reach me ... dj.ranoia@me.com
 
 <!---
 DjTuner13/DjTuner13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
