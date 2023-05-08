@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DjTuner13
 - 👀 I’m interested in ... Python | Django && C++ && Powershell && SQL
-- 🌱 I’m currently learning ... JS/NodeJS/Express/React/MongoDB
+- 🌱 I’m currently learning ... JS/NodeJS/Express/React/MongoDB/GraphQL
 - 💞️ I’m looking to collaborate on ... Open Source
 - 📫 How to reach me ... dj.ranoia@me.com
 
