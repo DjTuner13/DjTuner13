@@ -2,7 +2,7 @@
 - 👀 I’m knowledgeable in ... Python | Django && C++ && Powershell && SQL && JS/NodeJS/Express/React/MongoDB/GraphQL && MedState notation
 - 🌱 I’m currently learning ... Advance Python && Swift
 - 💞️ I’m looking to collaborate on ... Open Source
-- 📫 How to reach me ... dj.ranoia@me.com
+- 📫 How to reach me ... GitHub.DjTuner13@icloud.com
 
 <!---
 DjTuner13/DjTuner13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
