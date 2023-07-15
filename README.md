@@ -1,7 +1,16 @@
 - 👋 Hi, I’m @DjTuner13
-- 👀 I’m knowledgeable in ... Python | Django && C++ && Powershell && SQL && JS/NodeJS/Express/React/MongoDB/GraphQL && MedState notation
-- 🌱 I’m currently learning ... Advance Python && Swift
-- 💞️ I’m looking to collaborate on ... Open Source
+- 👀 I’m knowledgeable in ...
+  - Python | Django
+  - C++
+  - Powershell
+  - SQL
+  - JS/NodeJS/Express/React
+  - MongoDB
+  - GraphQL
+  - MedState notation
+    
+- 🌱 I’m currently learning ... Advanced C++ && Swift
+- 💞️ I’m looking to collaborate on ... Open Source && interesting FullTime Work
 - 📫 How to reach me ... GitHub.DjTuner13@icloud.com
 
 <!---
