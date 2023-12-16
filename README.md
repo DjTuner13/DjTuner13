@@ -8,8 +8,9 @@
   - MongoDB
   - GraphQL
   - MedState notation
+  - Swift
     
-- 🌱 I’m currently learning ... Advanced C++ && Swift
+- 🌱 I’m currently learning ... Web Backend
 - 💞️ I’m looking to collaborate on ... Open Source && interesting FullTime Work
 - 📫 How to reach me ... GitHub.DjTuner13@icloud.com
 
