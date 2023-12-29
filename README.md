@@ -10,7 +10,7 @@
   - MedState notation
   - Swift
     
-- 🌱 I’m currently learning ... Web Backend
+- 🌱 I’m currently learning ... Web Backend / Redwood Framework
 - 💞️ I’m looking to collaborate on ... Open Source && interesting FullTime Work
 - 📫 How to reach me ... GitHub.DjTuner13@icloud.com
 
