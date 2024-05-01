@@ -1,18 +1,25 @@
 - 👋 Hi, I’m @DjTuner13
 - 👀 I’m knowledgeable in ...
+
+  Languages
   - Python | Django
   - C++
-  - Powershell
-  - SQL
   - JavaScript(JS)/NodeJS/Express/React
   - Redwood Framework
-  - MongoDB
-  - GraphQL
   - MedState Notation
   - Swift
   - PHP Backend
+  
+  Scripting Languages
+  - Powershell
+  - Bash
+  
+  Databases
+  - MongoDB
+  - GraphQL
+  - SQL
     
-- 🌱 I’m currently diving deeper into ... Python && Lua
+- 🌱 I’m currently diving deeper into ... Python && Lua && Embedded Electronics
 - 💞️ I’m looking to collaborate on ... Open Source && interesting FullTime Work
 - 📫 How to reach me ... GitHub.DjTuner13@icloud.com
 
