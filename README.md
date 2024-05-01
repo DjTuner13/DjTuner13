@@ -10,8 +10,9 @@
   - GraphQL
   - MedState Notation
   - Swift
+  - PHP Backend
     
-- 🌱 I’m currently learning ... PHP Backend && Lua
+- 🌱 I’m currently diving deeper into ... Python && Lua
 - 💞️ I’m looking to collaborate on ... Open Source && interesting FullTime Work
 - 📫 How to reach me ... GitHub.DjTuner13@icloud.com
 
