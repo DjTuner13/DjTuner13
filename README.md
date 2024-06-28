@@ -2,24 +2,36 @@
 - 👀 I’m knowledgeable in ...
 
   Languages
-  - Python | Django
+  - Python | Django | Flask
   - C++
-  - JavaScript(JS)/NodeJS/Express/React
+  - JavaScript(JS) / NodeJS / Express / React
   - Redwood Framework
   - MedState Notation
   - Swift
   - PHP Backend
+  - Java
+  - Lua
+
+  Fronends Built using:
+  - HTML
+  - CSS
+  - React
+  - Bootstrap
   
   Scripting Languages
   - Powershell
   - Bash
   
   Databases
-  - MongoDB
+  - MongoDB / NoSQL
   - GraphQL
   - SQL
+ 
+  Logging
+  - ELK Stack
+  - Splunk
     
-- 🌱 I’m currently diving deeper into ... Python && Lua && Embedded Electronics
+- 🌱 I’m currently diving deeper into ... Python && Java && Embedded Electronics
 - 💞️ I’m looking to collaborate on ... Open Source && interesting FullTime Work
 - 📫 How to reach me ... GitHub.DjTuner13@icloud.com
 
